@@ -1,3 +1,4 @@
 # DEEPFAKE-USING-CNN
 CODE-project.ipynb
-Datasets-
+Datasets-real videos and fake videos
+
